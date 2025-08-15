@@ -1,6 +1,6 @@
 # Conversor de Divisas
 
-Una aplicación Java que permite convertir entre diferentes divisas utilizando tasas de cambio en tiempo real obtenidas de la API FastForex.
+Una aplicación Java que permite convertir entre diferentes divisas utilizando tasas de cambio en tiempo real.
 
 ## Características
 
